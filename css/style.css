@@ -425,7 +425,8 @@ img.slider-top-img {
   right: 2%;
 }
 .slider-text {
-  margin-top: 20vh;
+  /*margin-top: 20vh;*/
+  margin-top: 1vh;
 }
 .slider-heading {
   color: #000;
