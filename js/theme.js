@@ -1,9 +1,9 @@
 /**
- * Printogram
+ * PrintFiction
  *
  * This file contains all template JS functions
  *
- * @package Printogram
+ * @package PrintFiction
 --------------------------------------------------------------
                    Contents
 --------------------------------------------------------------

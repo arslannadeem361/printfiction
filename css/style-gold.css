@@ -1,11 +1,11 @@
 /*
-  Theme Name:  Printogram — HTML Template
-  Theme URL: http://http://www.mediacity.co.in/printogram
+  Theme Name:  PrintFiction
+  Theme URL: http://http://www.mediacity.co.in/PrintFiction
   Author: Media City
   Author URI: http://www.mediacity.co.in
   Creation Date: 10 September 2016
   Updated Date: 10 November 2018
-  Description: A default stylesheet for  Printogram — HTML Template
+  Description: A default stylesheet for  PrintFiction
   Version: 1.0
 */
 
@@ -429,7 +429,7 @@ img.slider-top-img {
 }
 .slider-heading {
   color: #000;
-  font-size: 200px;  
+  font-size: 164px;
   font-weight: 400;
 }
 .slider-heading span {
