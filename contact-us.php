@@ -1,5 +1,5 @@
 <?php 
-$to = 'info@mediacity.co.in'; // Put in your email address here
+$to = 'johrin@printfiction.me'; // Put in your email address here
 $subject  = "Contact Us Form"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
