@@ -1,0 +1,10 @@
+@media (min-width: 280px) and (max-width: 740px){
+
+	.txt-center{
+		text-align: center !important;
+	}
+	.req-quote-mbl{
+		margin-left: 50px;
+	}
+
+}
