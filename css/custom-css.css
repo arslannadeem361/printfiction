@@ -6,5 +6,61 @@
 	.req-quote-mbl{
 		margin-left: 50px;
 	}
+	.slider-heading{
+		font-size: 40px !important;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+	.slider-heading{
+		font-size: 100px !important;
+	}
+
+}
+
+@media (min-width: 320px) and (max-width: 640px){
+
+	.slider-heading{
+		font-size: 40px !important;
+	}
+	.slider-social ul {
+	    bottom: 0px !important;
+	    margin-top: 20px !important;
+	}
+	.slider-tag-line{
+		font-size: 20px;
+		margin-top: 10px !important;
+	}
+
+}
+
+@media (min-width: 411px) and (max-width: 823px){
+
+	.slider-heading{
+		font-size: 60px !important;
+	}
+	.slider-social{
+	   bottom: 0px !important;
+	}
+	.slider-tag-line{
+		font-size: 20px;
+		margin-top: 10px !important;
+	}
+
+}
+
+
+
+
+@media (min-width: 770px){
+
+	.slider-heading{
+		font-size: 150px !important;
+	}
+	.txt-center{
+		text-align: center !important;
+	}
 
 }

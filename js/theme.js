@@ -1,9 +1,9 @@
 /**
- * PrintFiction
+ * Fictions
  *
  * This file contains all template JS functions
  *
- * @package PrintFiction
+ * @package Fictions
 --------------------------------------------------------------
                    Contents
 --------------------------------------------------------------

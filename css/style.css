@@ -1,11 +1,11 @@
 /*
-  Theme Name:  PrintFiction — HTML Template
+  Theme Name:  Fictions — HTML Template
   Theme URL: https://www.polarbearsystems.com/
   Author: Polar Bear Systems
   Author URI: https://www.polarbearsystems.com/
   Creation Date: 10 September 2020
   Updated Date: 10 September 2020
-  Description: A default stylesheet for  PrintFiction — HTML Template
+  Description: A default stylesheet for  Fictions — HTML Template
   Version: 1.0
 */
 
@@ -431,7 +431,7 @@ img.slider-top-img {
 }
 .slider-heading {
   color: #000;
-  font-size: 200px;  
+  font-size: 175px;  
   font-weight: 400;
 }
 .slider-heading span {
@@ -474,7 +474,7 @@ img.slider-top-img {
 .slider-social ul {
   position: absolute;
   left: auto;
-  bottom: 85px;
+  /*bottom: 85px;*/
   z-index: 99999;
 }
 .slider-social ul li {
@@ -540,7 +540,7 @@ img.slider-top-img {
     visibility: hidden;
   }
   .slider-social ul {  
-    bottom: 40px;
+    bottom: 10px;
   }  
 }
 @media (min-width: 767px) and (max-width: 992px) { 
